@@ -4,5 +4,5 @@ This repository contains my code for the first phase of the Cyprus Programming C
 The first phase of the competition consists of 10 challenges!
 For each challenge, I upload the solution code and it's respective pdf file which includes the challenge.
 
-Each challenge has its own branch on the depository.
+Each challenge has its own branch on the repository.
 Don't get lost!
